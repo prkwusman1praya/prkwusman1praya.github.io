@@ -3,7 +3,7 @@ title: Prakarya & Kewirausahaan SMAN 1 Praya - Lombok Tengah NTB
 name: prkwusman1praya # your name
 email: awikardi@yahoo.com # your email address
 description: >
-    Sumber belajar prakarya & kewirausahaan di SMAN 1 Praya "baseurl:"
+    Sumber belajar prakarya & kewirausahaan di SMAN 1 Praya "https://prkwusman1praya.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://prkwusman1praya.github.io" # the base hostname & protocol for your site
 twitter_username:  # your Twitter username
