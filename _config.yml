@@ -4,7 +4,7 @@ name: Agus Wikardi # your name
 email: awikardi@yahoo.com # your email address
 description: >
     Sumber belajar prakarya & kewirausahaan di SMAN 1 Praya "baseurl:"
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://prkwusman1praya.github.io" # the base hostname & protocol for your site
 twitter_username:  # your Twitter username
 github_username: prkwusman1praya # your Github username
