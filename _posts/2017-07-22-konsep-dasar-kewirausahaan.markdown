@@ -37,7 +37,6 @@ finished: true
 <li><strong> Disiplin</strong></li>
 </ol>
 <p>Kerja keras dan disiplin merupakan modal dasar untuk keberhasilan seseorang dalam berwirausaha. Selain kerja keras ia juga harus disiplin dalam melaksanakan usahanya, sebab meskipun orang bekerja keras tetapi kalau tidak disiplin, usahanya kurang berarti. Para wirausaha yang mempunyai kemauan keras dan penuh disiplin akan dapat menggerakkan motivasi untuk bekerja secara bersungguh-sungguh. Disiplin berasal dari bahasa Inggris (disciple) yang berarti pengikut atau murid. Perkataan disiplin mempunyai arti latihan dan ketaatan kepada aturan.</p>
-<p>&nbsp;</p>
 <ol start="2">
 <li><strong> Komitmen tinggi</strong></li>
 </ol>
@@ -152,4 +151,3 @@ finished: true
 <li>Wirausaha itu beresiko</li>
 <li>Dan lain sebagainya.</li>
 </ol>
-
